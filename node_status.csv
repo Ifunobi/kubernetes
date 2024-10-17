@@ -1,0 +1,13 @@
+Cluster,Node Name,Status in Cluster,NodePool
+minikube,minikube-m02,Ready.SchedulingDisabled,banana
+minikube,minikube-m03,Ready.SchedulingDisabled,cherry
+minikube,minikube-m04,Ready.SchedulingDisabled,mango
+minikube,minikube-m05,Ready.SchedulingDisabled,orange
+minikube,minikube-m06,Ready.SchedulingDisabled,apple
+minikube,minikube-m07,Ready.SchedulingDisabled,banana
+minikube,minikube-m08,Ready.SchedulingDisabled,cherry
+minikube,minikube-m09,Ready.SchedulingDisabled,mango
+minikube,minikube-m10,Ready.SchedulingDisabled,orange
+minikube,minikube-m11,Ready.SchedulingDisabled,apple
+minikube,minikube-m12,Ready.SchedulingDisabled,banana
+minikube,minikube-m13,Ready.SchedulingDisabled,cherry
